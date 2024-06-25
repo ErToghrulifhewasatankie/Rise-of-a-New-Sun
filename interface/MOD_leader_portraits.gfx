@@ -1,0 +1,29 @@
+spriteTypes = {
+
+	# leaders we need to override in DLC go in this file
+
+    spriteType = {
+		name = "GFX_portrait_ernst_thalmann"
+		texturefile = "gfx/leaders/SGC/GFX_portrait_ernst_thalmann.dds"
+	}
+	spriteType = {
+		name = "GFX_portrait_HAN_george_hannover"
+		texturefile = "gfx/leaders/HAN/GFX_portrait_HAN_george_hannover.dds"
+	}
+	spriteType = {
+		name = "GFX_portrait_PRE_heinrich_himmler"
+		texturefile = "gfx/leaders/PRE/GFX_portrait_PRE_heinrich_himmler.dds"
+	}
+	spriteType = {
+		name = "portrait_RHI_wilhelm_ritter_von_thoma"
+		texturefile = "gfx/leaders/RHI/portrait_RHI_wilhelm_ritter_von_thoma.dds"
+	}
+	spriteType = {
+		name = "GFX_portrait_CZE_wilhelm_iii"
+		texturefile = "gfx/leaders/CZE/GFX_portrait_CZE_wilhelm_iii.dds"
+	}
+	spriteType = {
+		name = "GFX_portrait_PAP_palmiro_togliatti"
+		texturefile = "gfx/leaders/PAP/GFX_portrait_PAP_palmiro_togliatti.dds"
+	}
+}
