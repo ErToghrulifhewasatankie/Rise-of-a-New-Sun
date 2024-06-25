@@ -1,0 +1,16 @@
+characters={
+	PRE_heinrich_himmler={
+		name="Heinrich Himmler"
+		portraits={
+			civilian={
+				large= GFX_portrait_PRE_heinrich_himmler
+			}
+		}
+		country_leader={
+			ideology=gen_nazism
+			traits = { dictator }
+			desc = PRE_HIMMLER_DESC
+			expire="1965.1.1.1"
+			id=-1
+		}
+	}

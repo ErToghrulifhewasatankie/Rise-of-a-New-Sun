@@ -1,0 +1,16 @@
+characters={
+	HAN_king_george_hannover={
+		name="King George VI"
+		portraits={
+			civilian={
+				large= "gfx/leaders/HAN/GFX_portrait_HAN_george_hannover.dds"
+			}
+		}
+		country_leader={
+			ideology=oligarchism
+			traits = { unpopular_monarch }
+			desc = HAN_KING_GEORGE_DESC
+			expire="1965.1.1.1"
+			id=-1
+		}
+	}

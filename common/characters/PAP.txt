@@ -1,0 +1,18 @@
+characters = {
+
+	PAP_palmiro_togliatti = {
+		name = "Palmiro Togliatti"
+		portraits = {
+			civilian = {
+				large =GFX_portrait_PAP_palmiro_togliatti
+			}
+		}
+
+		country_leader = {
+			ideology = marxism
+			traits = { stalins_puppet }
+			expire = "1965.1.1.1"
+			id = -1
+		}
+	}
+}
